@@ -1,0 +1,23 @@
+{
+  "name": "yesNoDirective",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jonas Myrenås",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "~1.4",
+    "angular-mocks": "^1.4.1",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "phantomjs": "^1.9.17"
+  }
+}
