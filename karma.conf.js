@@ -14,7 +14,7 @@ module.exports = function (config) {
 
             // our app
             'test/app.js',
-            'js/yesNoDirective.js',
+            'source/yesNoDirective.js',
 
             // tests
             'test/yesNoSpec.js'

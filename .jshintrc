@@ -1,0 +1,31 @@
+{
+  "evil": true,
+  "regexdash": true,
+  "browser": true,
+  "wsh": true,
+  "trailing": true,
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "predef": [
+    /* Testing globals */
+    "xit",
+    "it",
+    "xdescribe",
+    "describe",
+    "expect",
+    "beforeEach",
+    "afterEach",
+    "sinon",
+    "console",
+    "provideMock",
+    "resolvedPromise",
+    "rejectedPromise",
+    "pendingPromise",
+    "pending",
+    /* Application globals */
+    "angular"],
+  "strict": true,
+  "indent": 4,
+  "quotmark": "single"
+}

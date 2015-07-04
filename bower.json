@@ -1,0 +1,28 @@
+{
+  "name": "yesNoDirective",
+  "version": "0.1",
+  "homepage": "https://github.com/primavera133/yesNoDirective",
+  "authors": [
+    "Jonas Myrenås <jonas.myrenas@sj.se>"
+  ],
+  "description": "A silly little AngularJS directive for displaying texts according to a boolean parameter",
+  "main": "dist/yesNoDirective.js",
+  "keywords": [
+    "AngularJS",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".jshintrc",
+    "bower.json",
+    "gulpfile.js",
+    "karma.conf.js",
+    "package.json",
+    "README.md",
+    "node_modules",
+    "test"
+  ],
+  "dependencies" :{
+    "angular": "^1.2"
+  }
+}
